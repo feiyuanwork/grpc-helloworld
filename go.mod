@@ -1,4 +1,4 @@
-module grpc-helloworld
+module github.com/feiyuanwork/grpc-helloworld
 
 go 1.20
 
